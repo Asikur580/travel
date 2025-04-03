@@ -1006,6 +1006,7 @@ form textarea {
     color: #0e0e0e;
     border: none;
     outline: none;
+    border-radius: 5px;
 }
 
 .contact .container form button {
